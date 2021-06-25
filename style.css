@@ -1,0 +1,60 @@
+body{
+    font-family: 'Playfair Display', serif;
+    font-size: 1.6rem;
+    margin-left: 0rem;
+    margin-right: 0rem;
+    
+}
+.name{
+    font-size: 3rem;
+    margin-top: 0.3rem;
+    margin-bottom: 0.3rem; 
+}
+.nameinfo{
+    display: flex;
+    color: aliceblue;
+    
+    
+    padding-left: 1rem;
+    margin-top: 0.3rem;
+    
+    background-color: rgb(0, 119, 255);
+}
+.mail{
+margin-left: 50rem;
+
+}
+.tag{
+    padding-left: 1rem;
+   font-size: 1.6rem;
+}
+.portfolio{
+    padding-left: 1rem;
+    font-size: 1.6rem;
+}
+.flex{
+    display: flex;
+}
+.firsthalf{
+    margin-right: 10rem;
+}
+.half{
+    display: flex;
+    
+}
+.langs{
+    margin-right: 4rem;
+}
+.git{
+    margin-right: 3rem;
+    margin-left: 1.3rem;
+}
+.part1{
+    display: flex;
+}
+.titp{
+    margin-left: 1rem;
+}
+.projects{
+  margin-left: 10rem;
+}
